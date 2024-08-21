@@ -1,16 +1,27 @@
-## Hi there 👋
+###### [sh0inx.dev](https://www.sh0inx.dev) | University of Central Florida • [Computer Science](https://www.ucf.edu/degree/computer-science-bs/) & [Biology](https://www.ucf.edu/degree/biology-bs/) Majors
 
-<!--
-**sh0inx/sh0inx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```java
+System.out.println("oh, hello there!");
+```
 
-Here are some ideas to get you started:
+# > oh, hello there!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is **Shyanne** <sup>she/her</sup>, I'm a code hobbyist looking to improve my skills and learn anything and everything there is to learn about the wonderful world of software.
+
+Current projects:
+
+- 🏝️ Contributor & Maintainer | [Iridium Development](https://github.com/Iridium-Development)
+
+Learning:
+
+- ☕ Java
+- #️⃣ C#
+- ➕ C++
+- 🔷 Flutter / Dart
+- ⚛️ React Native | HTML(5) / CSS / Typescript
+- 🐘 SQL
+
+My time is certainly limited, but I'm always happy to talk to a fellow nerd! Feel free to chat; I may be shy, but I won't bite (probably).
+
+###### *you've never seen a sh0inx so shiny*
+![Discord](https://dcbadge.limes.pink/api/shield/269672076883918848?style=flat-square) 
