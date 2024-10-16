@@ -1,4 +1,4 @@
-###### [sh0inx.dev](https://www.sh0inx.dev) | University of Central Florida • [Computer Science](https://www.ucf.edu/degree/computer-science-bs/) & [Biology](https://www.ucf.edu/degree/biology-bs/) Majors
+###### [sh0inx.dev](https://www.sh0inx.dev) | University of Central Florida • [Computer Science](https://www.ucf.edu/degree/computer-science-bs/) & [Biology](https://www.ucf.edu/degree/biology-bs/) Majors | [Bioengineering](https://www.ucf.edu/degree/bioengineering-minor/) Minor
 
 ```java
 System.out.println("oh, hello there!");
@@ -11,6 +11,7 @@ My name is **Shyanne** <sup>she/her</sup>, I'm a code hobbyist looking to improv
 Current projects:
 
 - 🏝️ Contributor & Maintainer | [Iridium Development](https://github.com/Iridium-Development)
+- 🌐 Contributor & Maintainer | [Pokéflex](https://github.com/sh0inx/Pokeflex)
 
 Learning:
 
