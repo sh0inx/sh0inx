@@ -16,6 +16,7 @@ Current projects:
 Learning:
 
 - ☕ Java
+- 💽 C
 - #️⃣ C#
 - ➕ C++
 - 🔷 Flutter / Dart
