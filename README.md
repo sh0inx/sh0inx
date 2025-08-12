@@ -19,6 +19,7 @@ _Contributor_
 _Author_
   - 🚧🎮 [mipshinx](https://github.com/sh0inx/mipshinx)
   - 🚧🌊 [Morpha](https://github.com/sh0inx/Morpha)
+  - 🚧🐶 [PUPP](https://github.com/sh0inx/PUPP)
   - 🚫 [DragonCancel](https://github.com/sh0inx/Dragon-Cancel)
   - 🏝️ [SkyblockHelper](https://github.com/sh0inx/Skyblock-Helper)
   - 🚧🔥 [Blaze](https://github.com/sh0inx/Blaze)
