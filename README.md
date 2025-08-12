@@ -13,6 +13,7 @@ Current projects:
 - 🏝️ Contributor & Maintainer | [Iridium Development](https://github.com/Iridium-Development)
 - 🌐 Contributor & Maintainer | [Pokéflex](https://github.com/sh0inx/Pokeflex)
 - 🐉 Contributor | [Ryujinx/Ryubing](https://git.ryujinx.app/ryubing/ryujinx)
+- 📖 Contributor | [Journaly](https://github.com/Journaly-io)
 <br></br>
 - 🎮 Author | [mipshinx](private)
 - ✍️ Author | [TextMe](https://github.com/sh0inx/TextMe)
