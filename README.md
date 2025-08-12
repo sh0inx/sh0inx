@@ -32,7 +32,7 @@ _Author_
 Learning:
 
   - ☕ Java ([COP-2800C](https://github.com/sh0inx/COP-2800C))
-  - 💽 C ([COP-1000C](https://github.com/sh0inx/COP-1000C), [COP-3223C](https://github.com/sh0inx/COP-3223C), [CDA-3103C](https://github.com/sh0inx/CDA-3103C))
+  - 💽 C ([COP-1000C](https://github.com/sh0inx/COP-1000C), [COP-3223C](https://github.com/sh0inx/COP-3223C), [COP-3502C](https://github.com/sh0inx/COP-3502C), [CDA-3103C](https://github.com/sh0inx/CDA-3103C))
   - #️⃣ C# 
   - ➕ C++
   - 🔷 Flutter / Dart
