@@ -12,21 +12,23 @@ Current projects:
 
 _Contributor_
   - 🏝️ Maintainer | [Iridium Development](https://github.com/Iridium-Development)
-  - 🌐 Maintainer | [Pokéflex](https://github.com/sh0inx/Pokeflex)
-  - 🚧🐉 [Ryujinx/Ryubing](https://git.ryujinx.app/ryubing/ryujinx)
-  - 🚧📖 [Journaly](https://github.com/Journaly-io)
+  - 🐉 Maintainer | [Ryubing/Ryujinx](https://src.ryujinx.app)
 
 _Author_
-  - 🚧🎮 [mipshinx](https://github.com/sh0inx/mipshinx)
-  - 🚧🌊 [Morpha](https://github.com/sh0inx/Morpha)
-  - 🚧🐶 [PUPP](https://github.com/sh0inx/PUPP)
-  - 🚫 [DragonCancel](https://github.com/sh0inx/Dragon-Cancel)
+  - 🚧 🎮 [mipshinx](https://github.com/sh0inx/mipshinx)
+  - 🚧 🌊 [Morpha](https://github.com/sh0inx/Morpha)
+  - 🚧 🐶 [PUPP](https://github.com/sh0inx/PUPP)
+  
   - 🏝️ [SkyblockHelper](https://github.com/sh0inx/Skyblock-Helper)
-  - 🚧🔥 [Blaze](https://github.com/sh0inx/Blaze)
-  - ✍️ [TextMe](https://github.com/sh0inx/TextMe)
-  - 🗨 [quip](https://github.com/sh0inx/quip)
-  - 🚧🏮 [Firefly](https://github.com/sh0inx/Firefly)
-  - 🚧🧳 [coming soon...](private)
+  - 🚧 🔥 [Blaze](https://github.com/sh0inx/Blaze)
+  - 🚧 ✍️ [TextMe](https://github.com/sh0inx/TextMe)
+  - 🚧 🗨 [quip](https://github.com/sh0inx/quip)
+  - 🚧 🏮 [Firefly](https://github.com/sh0inx/Firefly)
+  - 🚧 🧳 [coming soon...](private)
+
+_Shelved_
+- 🔮 [Pokéflex](https://github.com/sh0inx/Pokeflex)
+- 🚫 [DragonCancel](https://github.com/sh0inx/Dragon-Cancel)
 
 🚧 - changes have not been uploaded to the server
 
@@ -34,7 +36,7 @@ Learning:
 
   - ☕ Java ([COP-2800C](https://github.com/sh0inx/COP-2800C))
   - 💽 C ([COP-1000C](https://github.com/sh0inx/COP-1000C), [COP-3223C](https://github.com/sh0inx/COP-3223C), [COP-3502C](https://github.com/sh0inx/COP-3502C), [CDA-3103C](https://github.com/sh0inx/CDA-3103C))
-  - #️⃣ C# 
+  - #️⃣ C#
   - ➕ C++
   - 🔷 Flutter / Dart
   - ⚛️ NextJS | HTML(5) / CSS / Typescript
