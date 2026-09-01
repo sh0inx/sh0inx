@@ -23,8 +23,8 @@ im max, a code hobbyist looking to improve my skills and learn anything and ever
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"></a>
-<a href=""><img src="https://img.shields.io/badge/forgejo-%23FB923C.svg?style=for-the-badge&logo=forgejo&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E"></a>
+<a href="https://starforgejo.dev/home"><img src="https://img.shields.io/badge/forgejo-%23FB923C.svg?style=for-the-badge&logo=forgejo&logoColor=white"></a>
+<a href="https://blog.ryulynx.org"><img src="https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E"></a>
 <!--<a href="https://www.sh0inx.dev"><img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white"></a>-->
 
 - - -
